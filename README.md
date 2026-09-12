@@ -52,13 +52,14 @@ MonteCarlo-Pricer-Engine
 ---
 
 # Clone the repository
+```text
 git clone [https://github.com/marco-chiovaro/monte-carlo-cpp-option-pricer.git](https://github.com/YOUR_USERNAME/monte-carlo-cpp-option-pricer.git)
 cd monte-carlo-cpp-option-pricer
 
 # Compile C++ source into a Python extension module via pybind11
 g++ -O3 -shared -std=c++17 -fPIC $(python3 -m pybind11 --includes) \
     -fopenmp src/bindings.cpp -o montecarlo_cpp$(python3-config --extension-suffix)
-
+```
 ---
 
 ## Author
