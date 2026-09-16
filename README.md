@@ -46,6 +46,7 @@ MonteCarlo-Pricer-Engine
 |   ├── test_speed.py
 |   ├── convergence.py
 |   └── complexity_analysis.py
+├── compile.sh
 ├── docs/                 # Performance plots & 3D Surfaces
 └── README.md
 ```
