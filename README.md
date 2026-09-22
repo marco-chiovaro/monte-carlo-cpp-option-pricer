@@ -44,6 +44,8 @@ MonteCarlo-Pricer-Engine
 │   ├── analysis_greeks.py
 │   ├── test_greeks.py
 |   ├── test_speed.py
+|   ├── var_test.py
+|   ├── plot_histograms.py
 |   ├── convergence.py
 |   └── complexity_analysis.py
 ├── compile.sh
