@@ -7,7 +7,7 @@ High-performance Monte Carlo engine for pricing European and Asian options. The 
 
 Developed as a Final Project for the B.Sc. in Computer Engineering at Sapienza University of Rome, this project bridges software engineering and financial mathematics. 
 
-In Quantitative Finance and Asset Liability Management (ALM), pricing path-dependent derivatives requires significant computational power. This repository demonstrates how a hybrid architecture—combining native C++ performance with Python's analytical ecosystem—can solve computationally expensive pricing problems efficiently.
+In Quantitative Finance, pricing path-dependent derivatives requires significant computational power. This repository demonstrates how a hybrid architecture—combining native C++ performance with Python's analytical ecosystem—can solve computationally expensive pricing problems efficiently.
 
 ---
 
